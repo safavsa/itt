@@ -1,0 +1,39 @@
+
+{
+    "txtout": [
+
+    ["hello","Hello, How can i Help you?"],
+    ["bye","Bye, Take Care!"],
+    ["thank you","You are welcome."],
+    ["medicine arrage", "At what time do you have to take your medicine? write your time as HH:MM PM/AM "],
+    ["medicine take", "You have to take your medicine at [time]."],
+    ["meet","You have a meeting at "],
+    ["name arrage","what is your name? "],
+    ["my name","Hello Mr/Mrs [name]"]
+
+
+],
+"riddles": [
+    {
+        "question": "How many months of the year have 28 days?",
+        "answer": ["12","Twelve"]
+    },
+    {
+        "question":"It belongs to you, but your friends use it more. What is it?",
+        "answer":["Your name","name","my name","the name"]
+    },
+    {
+        "question":"If you dont keep me, Ill break. What am I?",
+        "answer":["A promise","promise"]
+    },
+    {
+        "question":"I have a tail and a head, but no body. What am I?",
+        "answer":["coin","A coin","coins"]
+    }
+
+]
+}
+
+
+
+
